@@ -1,0 +1,47 @@
+{
+  "uid" : "a29cee0076f894d7",
+  "name" : "loginTRUE",
+  "title" : "Login TRUE",
+  "time" : {
+    "start" : 1491663312100,
+    "stop" : 1491663312105,
+    "duration" : 5
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "aee5ab8772bec3d4",
+    "name" : "TestNG Learning : Login test",
+    "title" : "TestNG Learning : Login test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-FNF69NB"
+  }, {
+    "name" : "thread",
+    "value" : "5288@DESKTOP-FNF69NB.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "TestNG Learning : Login test"
+  }, {
+    "name" : "suite-title",
+    "value" : "TestNG Learning : Login test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ ]
+}

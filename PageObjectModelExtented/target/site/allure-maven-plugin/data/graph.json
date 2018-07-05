@@ -1,0 +1,25 @@
+{
+  "testCases" : [ {
+    "uid" : "53775f7c5963a579",
+    "name" : "dologinTest",
+    "title" : "Dologin test",
+    "time" : {
+      "start" : 1491663305644,
+      "stop" : 1491663311966,
+      "duration" : 6322
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "a29cee0076f894d7",
+    "name" : "loginTRUE",
+    "title" : "Login TRUE",
+    "time" : {
+      "start" : 1491663312100,
+      "stop" : 1491663312105,
+      "duration" : 5
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}

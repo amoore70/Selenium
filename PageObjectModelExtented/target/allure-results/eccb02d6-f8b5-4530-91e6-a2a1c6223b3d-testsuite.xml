@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1491800425612" stop="1491800435178" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1491800430339" stop="1491800434935" status="passed">
+            <name>dologinTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-FNF69NB"/>
+                <label name="thread" value="4324@DESKTOP-FNF69NB.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1491800435092" stop="1491800435099" status="passed">
+            <name>loginTRUE</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-FNF69NB"/>
+                <label name="thread" value="4324@DESKTOP-FNF69NB.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
